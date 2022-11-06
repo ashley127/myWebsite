@@ -1,2 +1,2 @@
 # myWebsite
-A coolection of notes from the current books I'm reading
+A *cool*ection of notes from the current books I'm reading
