@@ -9,7 +9,7 @@ body {
 }
 .mainheading {
 	padding-top: 30px;
-	padding-left: 150px;
+	padding-left: 50px;
 }
 a {
 	color:#00ab6b;
@@ -105,10 +105,8 @@ section {
 	margin-top:30px;
 }
 .author-thumb {
-	max-width:100%;
-	height:auto;
+	width:100%;
 	float:left;
-	margin-right:13px;
 	border-radius:50%;
 }
 .post-top-meta {
@@ -443,3 +441,7 @@ ul.tags li a:hover {
 	font-size:12px;
 }
 
+.aboutMeFont {
+	font-family:'Georgia';
+	padding-top: 5px;
+}
