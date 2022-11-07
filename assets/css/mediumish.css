@@ -8,8 +8,8 @@ body {
 	padding-top:5rem;
 }
 .mainheading {
-	padding-top: 30px;
-	padding-left: 50px;
+	padding-top: 20px;
+	
 }
 a {
 	color:#00ab6b;
@@ -232,7 +232,9 @@ blockquote {
 }
 .featured-image {
 	display:block;
-	margin:0px auto;
+	margin-left:auto;
+	margin-right: auto;
+	width:100%;
 	margin-bottom:1.5rem;
 }
 .share {
